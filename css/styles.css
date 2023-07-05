@@ -1,0 +1,36 @@
+body {
+  background-color: #f0ece2;
+}
+
+h1 {
+  text-align: center;
+  color: #402a23;
+}
+
+h2,
+p a {
+  color: #402a23;
+}
+
+p {
+  background-color: #dfd3c3;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+a {
+  color: #c7b198;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  border: 2px solid #c7b198;
+  border-radius: 10px;
+}
+
+.nav-links {
+  text-align: end;
+  margin: 5px;
+}
