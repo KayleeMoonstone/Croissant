@@ -30,6 +30,11 @@ img {
   border-radius: 10px;
 }
 
+footer {
+  font-size: 12px;
+  text-align: end;
+}
+
 .nav-links {
   text-align: end;
   margin: 5px;
